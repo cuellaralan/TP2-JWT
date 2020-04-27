@@ -1,0 +1,1 @@
+{"email":"juanperez@mail.com","clave":"12345678","nombre":"Juan","apellido":"perez","telefono":"1559595959","tipo":"user"}
