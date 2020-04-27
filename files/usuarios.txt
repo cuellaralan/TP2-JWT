@@ -1,1 +1,3 @@
 {"email":"juanperez@mail.com","clave":"12345678","nombre":"Juan","apellido":"perez","telefono":"1559595959","tipo":"user"}
+{"email":"wancho@mail.com","clave":"12345678","nombre":"ramon","apellido":"abila","telefono":"1559595959","tipo":"admin"}
+{"email":"esunanena@mail.com","clave":"12345678","nombre":"pepe","apellido":"argento","telefono":"1559595959","tipo":"admin"}
